@@ -1,0 +1,14 @@
+## Interface: 80200
+## Title: DisplayTraits
+## Author: JANY
+## Version: 8.2.0
+## Notes: DisplayTraits显示装备特质
+## SavedVariables:DisplayTraitsDB
+
+
+libs\load_libs.xml
+
+
+DisplayTraits.lua
+
+
